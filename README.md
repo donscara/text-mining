@@ -1,4 +1,4 @@
-# text-mining
+# Text-Mining
 
 Text Mining Project Labs:
 
